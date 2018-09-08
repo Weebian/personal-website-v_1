@@ -1,5 +1,4 @@
 $(function () {
-    let active = false;
 
     //Menu stuff
     $(".menuButton").click(function () {

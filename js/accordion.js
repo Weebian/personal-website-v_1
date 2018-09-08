@@ -1,4 +1,6 @@
 $(function () {
+    let active = false;
+    
     $(function () {
         $(".accordion").accordion();
     });

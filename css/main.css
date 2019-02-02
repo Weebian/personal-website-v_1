@@ -190,7 +190,7 @@ ul{
 }
 .title-page{
     padding-top: 10px;
-    height: 690px;
+    padding-bottom: 10px;
     text-align: center;
     background: #253237;
 }
@@ -202,7 +202,7 @@ ul{
 }
 .title-page::after{
     border-bottom:1px solid #C2DFE3;
-    margin-top: 235px;
+    margin-top: 15%;
 }
 .title-page::before{
     border-top:1px solid #C2DFE3;
